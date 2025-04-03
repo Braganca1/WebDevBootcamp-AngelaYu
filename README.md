@@ -8,7 +8,8 @@ This repository contains the projects and exercises I'm building as part of a We
 - CSS  
 - JavaScript  
 - Node.js  
-- Express  
+- Express
+- EJS
 - SQL
 
 ## 🚀 Objective
